@@ -1,0 +1,51 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 30 de jul. de 2022, 21:53:28
+    Author     : Peu Souza
+*/
+body{
+    background-color: khaki; 
+}
+h1{
+    position:absolute;
+    color: blueviolet;
+    align-items: center;
+    left:40%;
+}
+.jogo{
+    position: absolute;
+    top:15%;
+    left:40%;
+    background-color: appworkspace;
+    padding: 15px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.5); 
+    background-color: bisque;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    grid-template-rows: 80px 80px 80px;
+    border: 1px solid;
+}
+.peca{
+    width: 80px;
+    height: 80px;
+    border:1px solid black;
+}
+.reset{
+    margin-top: 10px;
+    background-color: palevioletred;
+    padding: 10px;
+    border-radius: 20px;
+}
+label{
+    font-weight: bold;
+    background-color: plum;
+    border-radius: 5px;
+}
+.tamanho{
+    margin-top: 10px;
+}

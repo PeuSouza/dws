@@ -1,0 +1,15 @@
+{
+    "name": "DSW1-Lista2-AnaPaulaSouza",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Peu Souza",
+    "contributors": [
+    ],
+    "dependencies": {}
+}
